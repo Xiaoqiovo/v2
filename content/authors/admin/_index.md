@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/534287a6-be79-4b0c-b025-a207b6ea3c30)---
+---
 # Display name
 name: XIAOQI
 
