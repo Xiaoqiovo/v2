@@ -5,7 +5,7 @@
 
 [[main]]
   name = "Bio"
-  url = "#about"
+  url = "authors/"
   weight = 10
 
 [[main]]
